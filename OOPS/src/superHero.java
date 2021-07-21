@@ -7,6 +7,7 @@ public class superHero {
 		String heroType=JOptionPane.showInputDialog("Hero Name: ");
 		Hero hero;
 		Class x=Class.forName=
+				System.out.println("Brach version 01");
 
 	}
 
